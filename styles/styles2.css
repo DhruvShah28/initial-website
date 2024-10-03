@@ -1,0 +1,36 @@
+body{
+    padding: 0px;
+    margin: 0px;
+}
+
+.nav{
+    border: 2px solid black;
+
+}
+
+.navlist{
+    list-style-type: none;  
+}
+
+.listitem{
+    display: inline;
+    padding-left: 10px;
+}
+
+.listitem a{
+    color: black;
+    text-decoration: none;
+}
+
+.listitem a:hover{
+    color: rgb(124, 124, 124);
+    transition: 2ms;
+}
+
+
+.listitem a{
+    color: black;
+    text-decoration: none;
+}
+
+
